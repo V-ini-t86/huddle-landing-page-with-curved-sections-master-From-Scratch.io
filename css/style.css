@@ -1,0 +1,273 @@
+body{
+
+}
+h1{
+
+}
+/*Header Section*/
+#Logo {
+	padding: 5% 5% 15%;
+}
+.btn {
+	position: absolute;
+	right: 50px;
+}
+
+
+/*Title Section*/
+#title{
+	text-align: center;
+}
+.big-title{
+	font-size: 3rem;
+}
+.para{
+	padding: 1% 25%;
+}
+.title-img{
+	width: 60%;
+	padding-top: 4%;
+	padding-bottom:4%;
+	text-align: center;
+}
+.bigg-butt{
+	text-align: center;
+}
+.mu-get{
+	padding: 0% 0% 5%;
+}
+@media (max-width: 930px) {
+	.myButton {
+	background-color:#FD53C0;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:17px;
+	font-weight:bold;
+	padding:16px 31px;
+	text-decoration:none;
+	padding-left: 5%;
+	padding-right: 5%;
+	box-shadow: 0px 0px 20px 0px #DED1E5;
+	}
+	.myButton:hover {
+	background-color:#378de5;
+	text-decoration-line:none; 
+	color: #fff;
+	}
+	.myButton:active {
+	position:relative;
+	top:1px;
+	}
+	.mu-get{
+		padding: 1% 0% 5%;
+	}
+	
+}
+@media(max-width: 726px) {
+	#gfy {
+		text-align: center;
+	}
+	.back-img {
+	width: 100%;
+	height: 600px;
+	position: absolute;
+
+	}
+	#footer {
+	padding: 10% 7%;
+	position: absolute;
+	z-index: 1;
+	color: #fff;
+	}
+
+}
+/*community Section*/
+
+#Community{
+	padding: 0% 15% 5%;
+	text-align: center;
+}
+.h1-head{
+	font-size: 50px;
+}
+
+.img-comm{
+	width: 7%;	
+	position: relative;
+    right: 52px;
+}
+.para-comm{
+	color: #828C95;
+}
+
+/*GFY Section*/
+#gfy {
+	padding: 0% 15%;
+	position: relative;
+	z-index: 1;
+	top: 150px;
+	
+}
+.img-grow-together {
+	width: 60%;
+	padding-left: 50px; 
+}	
+@media (min-width: 1360px ) {
+	.para{
+		padding: 0% 34%;
+	}
+
+}
+.desktop{
+	width: 200%;
+}
+.gfy-img{
+	position: absolute;
+	width: 100%;
+	height: 90%;
+	z-index: -1;
+}
+.gfy-img1 {
+	width: 100%;
+	height: 10%;
+	position: relative;
+	bottom: 170px;
+}
+.flow-conver{
+	padding-top: 25%;
+
+
+}
+.flow-convert{
+	padding: 40% 1% 3%;
+}
+.head-fed{
+	padding-top:3%;
+
+}
+.Yu-img{
+	position: relative;
+	width: 100%;
+	height: 60%;
+	z-index: -1;
+	
+
+}
+
+/*End Section*/
+#Build{
+	padding: 10% 15%;
+	text-align: center;
+	position: relative;
+	bottom: 100px;
+}
+#Build h1{
+	padding-bottom: 35px;
+}
+.myButton {
+	background-color:#FD53C0;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:17px;
+	font-weight:bold;
+	padding:16px 31px;
+	text-decoration:none;
+	padding-left: 5%;
+	padding-right: 5%;
+	box-shadow: 0px 0px 20px 0px #DED1E5;
+}
+.myButton:hover {
+	background-color:#378de5;
+	text-decoration-line:none; 
+	color: #fff;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+/*Footer Section*/
+#footer {
+	padding: 10% 7%;
+	position: absolute;
+	z-index: 1;
+	color: #fff;
+}
+.row{
+	position: relative;
+	top: 30px;
+}
+.logo {
+	width: 15%;
+	padding-bottom: 3%;
+}
+.footer-img{
+	height:;
+	width:;
+}
+.Huddle{
+	padding-left: 250px;
+}
+.newsletter{
+	padding-left: 200px;
+}
+.form-control{
+
+}
+.myButton1 {
+	background-color:#FD53C0;
+	border-radius:4px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:17px;
+	padding:10px 31px;
+	text-decoration:none;
+	box-shadow: 0px 0px 5px 0px #DED1E5;
+}
+.myButton1:hover {
+	background-color:#378de5;
+	text-decoration-line:none; 
+	color: #fff;
+}
+.myButton1:active {
+	position:relative;
+	top:1px;
+}
+.css-input { 
+	border-color:#cccccc; 
+	border-style:solid; 
+	font-size:17px; 
+	text-shadow:0px 0px 0px rgba(42,42,42,.75); 
+	border-width:0px; 
+	border-radius:5px; 
+	padding:9px;  
+} 
+ .css-input:focus {
+ 	outline:none; 
+}
+.back-img {
+	width: 100%;
+	height: 600px;
+	position: absolute;
+}
+.ixon {
+	background-color: white;
+}
+.social-media{
+	background-color: #fff;
+	width: 10%;
+	margin-top: 20%;
+	margin-right: 4%;
+	border-radius: 4px;
+}
+.news-1{
+	padding-bottom: 30px;
+}	
