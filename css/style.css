@@ -36,23 +36,7 @@ h1{
 .mu-get{
 	padding: 0% 0% 5%;
 }
-.av-button {
-    color: #ff52bf;
-    border: 1px solid #ff52bf;
-    font-size: 12px;
-    height: 2rem;
-    line-height: inherit;
-    border-radius: 3rem;
-    display: inline-flex;
-    align-items: center;
-    padding: 0 1rem;
-    text-transform: capitalize;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-    transition: all 0.4s ease-in-out;
-   	text-decoration-line: none; 
-   	position: absolute;
-   	right: 50px;
-}
+
 /**, *::before, *::after {
     margin: 0;
     padding: 0;
@@ -245,4 +229,21 @@ h1{
 }	
 .phone {
 	width: 100%;
+}
+.av-button {
+    color: #ff52bf;
+    border: 1px solid #ff52bf;
+    font-size: 12px;
+    height: 2rem;
+    line-height: inherit;
+    border-radius: 3rem;
+    display: inline-flex;
+    align-items: center;
+    padding: 0 1rem;
+    text-transform: capitalize;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    transition: all 0.4s ease-in-out;
+   	text-decoration-line: none; 
+   	position: absolute;
+   	right: 50px;
 }
