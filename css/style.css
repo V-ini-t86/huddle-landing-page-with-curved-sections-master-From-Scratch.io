@@ -36,6 +36,28 @@ h1{
 .mu-get{
 	padding: 0% 0% 5%;
 }
+.av-button {
+    color: #ff52bf;
+    border: 1px solid #ff52bf;
+    font-size: 12px;
+    height: 2rem;
+    line-height: inherit;
+    border-radius: 3rem;
+    display: inline-flex;
+    align-items: center;
+    padding: 0 1rem;
+    text-transform: capitalize;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    transition: all 0.4s ease-in-out;
+   	text-decoration-line: none; 
+   	position: absolute;
+   	right: 50px;
+}
+/**, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}*/
 @media (max-width: 930px) {
 	.myButton {
 	background-color:#FD53C0;
@@ -145,7 +167,7 @@ h1{
 	box-shadow: 0px 0px 20px 0px #DED1E5;
 }
 .myButton:hover {
-	background-color:#378de5;
+	background-color:#e75480;
 	text-decoration-line:none; 
 	color: #fff;
 }
